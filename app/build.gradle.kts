@@ -66,4 +66,9 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+    // Material Components For Android : Material Components for Android is a static library that you can add to your Android
+	// application in order to use APIs that provide implementations of the Material Design
+	// specification. Compatible on devices running API 14 or later.
+    implementation("com.google.android.material:material:1.4.0")
 }
