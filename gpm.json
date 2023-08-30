@@ -1,0 +1,18 @@
+{
+ "added": [
+  {
+   "id": 1,
+   "type": "implementation",
+   "installed_name": "compose-material",
+   "gpm_dep": {
+    "artifact_id": "material",
+    "default_type": "implementation",
+    "docs": "https://mvnrepository.com/artifact/androidx.compose.material/material",
+    "get_from": "Google",
+    "group_id": "androidx.compose.material",
+    "name": "Compose Material Components",
+    "description": "Compose Material Design Components library"
+   }
+  }
+ ]
+}
